@@ -33,10 +33,6 @@ finansal veriler üzerinde analiz yaparak, belirli bir hisse senedinin kapanış
    - Model performansı değerlendirilir.
    - modelin verdiği sonuçlar gerçek sonuçlarla ve veri setinde olmayan diğer verilerle kıyaslandı
 
-2. hisse.py dosyasında
-   - hisse senedinini verileri bir web sitesinden çekilmiş ve   03-09-2020 / 09-11-2023 arasındak borsa verilerini kapsamakatadır veri seti Hüseyin Erol tarafından oluşturulmuştur.
-
-
 
 ## Kullanılan Kütüphaneler
 
